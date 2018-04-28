@@ -1,4 +1,4 @@
 public main(){
 int a=10;
-print("the number is"+a);
+print("the number i s"+a);
 }
